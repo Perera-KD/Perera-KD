@@ -103,10 +103,6 @@ Android (Java) • Firebase Database • React Admin Panel • REST APIs
 
 ## 💼 Sales & Accounting System for an Audit Company
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Perera-KD&repo=Sales-Accounting-System&theme=tokyonight&hide_border=true"/>
-</p>
-
 A **financial management system built for an audit firm** to streamline sales tracking and accounting processes.
 
 ### Key Features
@@ -123,23 +119,6 @@ A **financial management system built for an audit firm** to streamline sales tr
 Java • MySQL • AJAX • JavaScript
 ```
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Perera-KD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Perera-KD&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perera-KD&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🧪 Currently Exploring
 
