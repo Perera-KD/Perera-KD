@@ -1,19 +1,25 @@
 <!-- FUTURISTIC HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,50:302b63,100:24243e&text=Perera-KD&fontSize=60&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Android%20Developer&descAlignY=60&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,50:004e92,100:000000&text=PERERA-KD&fontSize=70&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=%E2%96%B6%20SYSTEM_INITIALIZED%20//%20FULL-STACK%20ARCHITECT&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Application+Developer;React+%7C+Firebase+%7C+Java;Designing+Scalable+Applications;Building+Smart+Digital+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Application+Specialist;Firebase+%7C+React+%7C+Java;Designing+Scalable+Architectures;Building+Next-Gen+Digital+Systems"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Perera-KD&color=00f7ff&style=for-the-badge"/>
+  <a href="https://github.com/Perera-KD">
+    <img src="https://img.shields.io/badge/DEVELOPER_STATUS-ACTIVE-00F7FF?style=for-the-badge&logo=probot&logoColor=00F7FF" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Perera-KD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Android+Developer;React+%7C+Firebase+%7C+Java;Building+Scalable+Applications&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22"/> </p> <h3 align="center">Full Stack Developer | Android Developer | Software Enthusiast</h3> <p align="center"> Building scalable mobile and web applications through modern technologies. </p>
+
+---
 
 ---
 # 👨‍💻 About Me
