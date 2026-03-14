@@ -1,25 +1,19 @@
 <!-- FUTURISTIC HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:000428,50:004e92,100:000000&text=PERERA-KD&fontSize=70&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=%E2%96%B6%20SYSTEM_INITIALIZED%20//%20FULL-STACK%20ARCHITECT&descAlignY=60&descAlign=50"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Application+Specialist;Firebase+%7C+React+%7C+Java;Designing+Scalable+Architectures;Building+Next-Gen+Digital+Systems"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0f172a&text=Perera-KD&fontSize=75&fontColor=00F7FF&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Perera-KD">
-    <img src="https://img.shields.io/badge/DEVELOPER_STATUS-ACTIVE-00F7FF?style=for-the-badge&logo=probot&logoColor=00F7FF" />
+    <img src="https://img.shields.io/badge/CORE_PROTOCOL-ACTIVE-00F7FF?style=for-the-badge&logo=android&logoColor=000" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/OS-NEURAL_LINK-black?style=for-the-badge&logo=linux&logoColor=00F7FF" />
 </p>
 
----
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&color=00F7FF&center=true&lines=ANDROID+SPECIALIST;FULL+STACK+ARCHITECT;FIREBASE+EXPERT" />
+</p>
 
 ---
 # 👨‍💻 About Me
