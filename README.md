@@ -1,28 +1,31 @@
 ## Hi there 👋
+<div align="center">
 
-# ⚡ ERROR: SYSTEM_OVERRIDE_SUCCESSFUL
-### 📂 Initializing Directory: [YOUR NAME] // Senior Full-Stack Architect
+# ⚡ Kylie Perera
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=DECODING%20THE%20FUTURE&fontSize=50&animation=fadeIn" />
-</p>
+### 🚀 Software Engineer | Mobile Developer | Tech Explorer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Futuristic+Apps;Android+%7C+React+%7C+Firebase;Exploring+AI+%26+Cloud;Always+Learning+Something+New" />
 
-### 🌐 Terminal Status
-- **Current_Location:** `[City, Country]`
-- **Active_Projects:** `[Project Alpha, Project Beta]`
-- **Core_Focus:** `High-performance Distributed Systems & UI/UX Orchestration`
-- **Learning_Path:** `LLM Integration // Rust // Advanced Web3`
+</div>
 
 ---
 
-### 🛠 Tech Stack Orchestration
-> "Simplicity is the ultimate sophistication." — System.out.println("Hello World");
+## 🌌 About Me
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Frontend** | `Next.js` `TypeScript` `TailwindCSS` `Three.js` |
+```yaml
+name: Kylie Perera
+location: Sri Lanka
+role: Software Developer
+focus: Mobile Apps, Cloud Systems, Scalable Platforms
+currently_learning:
+  - Advanced Android Development
+  - Cloud Architecture
+  - AI Integrations
+interests:
+  - Building futuristic apps
+  - Human-centered design
+  - Automation & productivityndCSS` `Three.js` |
 | **Backend** | `Node.js` `Go` `PostgreSQL` `Redis` |
 | **DevOps** | `Docker` `Kubernetes` `AWS` `GitHub Actions` |
 | **Design** | `Figma` `Spline` `Adobe CC` |
