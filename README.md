@@ -5,8 +5,20 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Perera-KD&color=00f7ff&style=flat-square&label=%E2%96%B6_VISITOR_TRAFFIC"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+Application+Developer;React+%7C+Firebase+%7C+Java;Building+Modern+Digital+Systems" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-Developer-00f7ff?style=for-the-badge&logo=android&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/FullStack-Developer-0f2027?style=for-the-badge&logo=github&logoColor=00f7ff"/>
+  <img src="https://img.shields.io/badge/React-Firebase-Java-302b63?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<p align="center">
+  <em>Crafting scalable mobile & web applications with clean architecture, cloud integration, and modern frameworks</em>
+</p>
+
+
 ---
 # 👨‍💻 About Me
 
