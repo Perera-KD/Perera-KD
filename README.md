@@ -9,7 +9,11 @@
 
 </div>
 
----
+### 🌐 Terminal Status
+- **Current_Location:** `[City, Country]`
+- **Active_Projects:** `[Project Alpha, Project Beta]`
+- **Core_Focus:** `High-performance Distributed Systems & UI/UX Orchestration`
+- **Learning_Path:** `LLM Integration // Rust // Advanced Web3`
 
 ## 🌌 About Me
 
