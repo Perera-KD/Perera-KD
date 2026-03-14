@@ -1,13 +1,12 @@
 <!-- FUTURISTIC HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=000000&text=PERERA-KD&fontSize=80&fontColor=00F7FF&fontAlignY=40&desc=%E2%96%88%E2%96%88%20SYSTEM%20READY%20%3E%20FULL-STACK%20ENGINEER&descAlignY=65&descAlign=50&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=200&color=050505&text=%E2%9A%A1%20PERERA-KD&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=ANDROID%20%E2%80%A2%20WEB%20%E2%80%A2%20CLOUD&descAlignY=70&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%EF%BC%9E+Initializing+Android+SDK...;%EF%BC%9E+Connecting+to+Firebase+Node...;%EF%BC%9E+Architecting+Digital+Futures...;%EF%BC%9E+Status%3A+Optimizing+Performance" />
+<img src="https://komarev.com/ghpvc/?username=Perera-KD&color=00f7ff&style=flat-square&label=%E2%96%B6_VISITOR_TRAFFIC"/>
 </p>
-
 ---
 # 👨‍💻 About Me
 
