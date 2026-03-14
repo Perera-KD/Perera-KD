@@ -1,18 +1,11 @@
 <!-- FUTURISTIC HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=220&color=0f172a&text=Perera-KD&fontSize=75&fontColor=00F7FF&animation=fadeIn&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=250&color=000000&text=PERERA-KD&fontSize=80&fontColor=00F7FF&fontAlignY=40&desc=%E2%96%88%E2%96%88%20SYSTEM%20READY%20%3E%20FULL-STACK%20ENGINEER&descAlignY=65&descAlign=50&animation=twinkling" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Perera-KD">
-    <img src="https://img.shields.io/badge/CORE_PROTOCOL-ACTIVE-00F7FF?style=for-the-badge&logo=android&logoColor=000" />
-  </a>
-  <img src="https://img.shields.io/badge/OS-NEURAL_LINK-black?style=for-the-badge&logo=linux&logoColor=00F7FF" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&color=00F7FF&center=true&lines=ANDROID+SPECIALIST;FULL+STACK+ARCHITECT;FIREBASE+EXPERT" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=%EF%BC%9E+Initializing+Android+SDK...;%EF%BC%9E+Connecting+to+Firebase+Node...;%EF%BC%9E+Architecting+Digital+Futures...;%EF%BC%9E+Status%3A+Optimizing+Performance" />
 </p>
 
 ---
