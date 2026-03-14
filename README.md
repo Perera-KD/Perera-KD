@@ -13,7 +13,9 @@
 </p>
 
 ---
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Perera-KD&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Android+Developer;React+%7C+Firebase+%7C+Java;Building+Scalable+Applications&center=true&width=500&height=45&color=00F7FF&vCenter=true&size=22"/> </p> <h3 align="center">Full Stack Developer | Android Developer | Software Enthusiast</h3> <p align="center"> Building scalable mobile and web applications through modern technologies. </p>
 
+---
 # 👨‍💻 About Me
 
 ```text
