@@ -77,10 +77,6 @@ My work focuses on **Android development, web platforms, and database-driven app
 
 ## 📚 Bookstore M-Commerce Application
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Perera-KD&repo=Bookstore_Android_Project&theme=tokyonight&hide_border=true"/>
-</p>
-
 A **mobile commerce platform for purchasing books** designed for a smooth and efficient digital shopping experience.
 
 ### Key Features
@@ -109,8 +105,8 @@ A **financial management system built for an audit firm** to streamline sales tr
 
 ⚡ Sales transaction management
 ⚡ Financial record tracking
-⚡ Bank reconciliation & clearance reports
-⚡ Financial period management
+⚡ Bank reconciliation & clearance
+⚡ Expense and Asset management
 ⚡ Internal audit reporting
 
 ### Tech Stack
