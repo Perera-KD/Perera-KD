@@ -1,37 +1,123 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00F2FF&height=200&section=header&text=%E2%9A%A1%20PERERA-KD%20%E2%9A%A1&fontSize=60&animation=fadeIn" />
-</p>
+<h1 align="center">Perera-KD</h1>
+<h3 align="center">Full Stack Developer | Android Developer | Software Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=FULL-STACK+ARCHITECT;ANDROID+ECOSYSTEM+SPECIALIST;FIREBASE+%7C+REACT+%7C+JAVA;ENGINEERING+SCALABLE+SOLUTIONS&center=true&width=500&height=45&color=00F2FF">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-00F2FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack--Mobile-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-Linux%20%2F%20Android-black?style=flat-square" />
+Building scalable mobile and web applications through modern technologies.
 </p>
 
 ---
 
-### 📂 SYSTEM_OVERVIEW // About Me
-> **Identity:** `Perera-KD`  
-> **Core_Directive:** `Bridging the gap between complex logic and seamless UX.`
+## 👨‍💻 About Me
 
-I engineer modern digital products that prioritize **high-concurrency, architectural integrity, and real-world utility**. My methodology involves a deep-dive into the full stack—from low-latency Android environments to scalable cloud-native backends.
+I’m a developer passionate about transforming ideas into **scalable mobile and web applications**, with a strong interest in exploring new frameworks and tools to build efficient digital solutions.
 
-* 🔭 **Current R&D:** Advanced Android Lifecycle Management & Microservices.
-* ⚡ **Core Philosophy:** "Efficiency is non-negotiable; elegant code is the standard."
-* 🌐 **Exploring:** Edge Computing and Automated DevOps Pipelines.
+I enjoy designing systems that combine **clean architecture, intuitive user interfaces, and reliable backend infrastructure**.
+
+My work mainly focuses on **mobile development, web applications, cloud services, and database-driven systems.**
 
 ---
 
-### 🛠 TECH_ORCHESTRATION
+## 🛠 Tech Stack
 
-```json
-{
-  "environments": ["Android Studio", "VS Code", "Postman", "Figma"],
-  "mobile_core": ["Java", "Android SDK", "Firebase Auth/Store"],
-  "web_layer": ["React.js", "JavaScript (ES6+)", "Material UI", "PHP/AJAX"],
-  "data_architecture": ["MySQL", "Firebase RTDB", "SQLite", "RESTful Orchestration"]
-}
+### Programming Languages
+
+* Java
+* JavaScript
+* PHP
+* SQL
+
+### Frontend Development
+
+* React
+* HTML5
+* CSS3
+* Tailwind
+
+### Mobile Development
+
+* Android (Java)
+* Android Studio
+
+### Backend & APIs
+
+* REST APIs
+* Firebase
+
+### Databases
+
+* MySQL
+* Firebase Realtime Database
+* SQLite
+
+### Tools & Platforms
+
+* Git & GitHub
+* VS Code
+* Android Studio
+* Postman
+* Intelli J
+
+---
+
+# 🚀 Projects
+
+## 📚 Bookstore M-Commerce Application
+
+A **mobile commerce platform for purchasing books**, designed to provide a smooth and efficient shopping experience for users.
+
+### Key Features
+
+* Browse and search books
+* Secure checkout process
+* Order placement system
+* Automatic **PDF invoice generation**
+* Invoice download to **internal device storage**
+* Push notifications for order updates
+* Seamless multitasking within the app
+
+### Tech Stack
+
+Android (Java)
+Firebase Database
+React Admin Panel
+REST API Integration
+
+---
+
+## 💼 Sales & Accounting System for an Audit Company
+
+A **financial management system designed for an audit firm** to manage sales, financial records, and accounting processes efficiently.
+
+### Key Features
+
+* Sales transaction management
+* Financial record tracking
+* Bank reconciliation and clearance reports
+* Financial period management
+* Report generation for internal auditing
+
+### Tech Stack
+
+JAVA
+MySQL
+AJAX
+JavaScript
+
+
+---
+
+## 📚 Currently Exploring
+
+* Advanced Android Development
+* Cloud Backend Architectures
+* Scalable System Design
+* API Integrations
+
+---
+
+## 🤝 Connect
+
+Feel free to explore my repositories and projects.
+I’m always interested in learning new technologies and improving my development skills.
+
+⭐ If you find my work interesting, consider giving a star to the repositories.
