@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-Developer-00f7ff?style=for-the-badge&logo=android&logoColor=000000"/>
   <img src="https://img.shields.io/badge/FullStack-Developer-0f2027?style=for-the-badge&logo=github&logoColor=00f7ff"/>
-  <img src="https://img.shields.io/badge/React-Firebase-Java-302b63?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 <p align="center">
